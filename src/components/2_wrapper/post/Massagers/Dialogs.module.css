@@ -1,0 +1,19 @@
+.dialogs {
+ display: flex;
+}
+
+.dialogsItems {
+display: flex;
+flex-direction: column;
+width: 100px;
+padding: 10px;
+}
+
+.dialogsItems .active {
+    color: gold;
+}
+.dialog {
+text-decoration: none;
+color: honeydew;
+}
+

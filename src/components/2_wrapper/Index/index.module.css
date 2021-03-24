@@ -1,0 +1,22 @@
+.index {
+    display: flex;
+    justify-content:flex-end;
+    flex-grow:1
+}
+
+.nav {
+    display: flex;
+    
+    background-color: hsl(240, 76%, 77%);
+    
+    padding: 3px;
+    margin: 0px 5px 0px 0px ;
+}
+
+.post {
+    display: flex;
+  
+    background-color: rgb(148, 148, 241);
+    flex-grow:1;
+  
+}

@@ -1,0 +1,43 @@
+.items {
+    background-color: #e3e3f5;
+    flex: 1;
+}
+
+.item {
+    display: flex;
+    padding: 10px;
+}
+
+.imgBtn {
+
+}
+
+.img {
+    width: 100px;
+    /* height: 100px; */
+}
+
+.btn {
+    width: 100px;
+    height: 50px;
+    border-radius:10px
+}
+
+.data {
+    border: 4px solid #ffffff93;
+    border-radius: 30px;
+    display: flex;
+    flex: 1;
+    justify-content: space-between;
+    padding: 0px 20px;
+    margin: 0px 0px 0px 10px;
+    
+
+}
+
+.element {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+
+}
